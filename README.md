@@ -1,4 +1,4 @@
-# 🌟 Portfolio – Elouan Hubert
+# Portfolio – Elouan Hubert
 
 **Étudiant en Prépa Informatique à l’EPITA**  
 elouan.hubert@epita.fr  
@@ -145,7 +145,7 @@ Il illustre ma passion pour l’informatique et mon engagement à évoluer dans 
 
 **Contactez-moi :**
 - mail: [elouan.hubert@epita.fr](mailto:elouan.hubert@epita.fr)
-- Mon profil Github:[Mon profil GitHub](https://github.com/Elouan82)
+- Github:[Mon profil GitHub](https://github.com/Elouan82)
 
 <!--
 **Elouan82/Elouan82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
