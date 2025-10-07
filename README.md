@@ -39,12 +39,9 @@ Je m'appelle **Elouan Hubert**, actuellement étudiant en cycle préparatoire à
 Passionné par l’informatique, j’aime apprendre, expérimenter et relever des défis techniques.  
 Mon objectif est de développer un large éventail de compétences pour évoluer dans le domaine du développement logiciel.
 
-
 <p align="center">
   <img src="images/Header.png" alt="HEADER Logo" width="350">
 </p>
-
-
 
 ---
 
@@ -130,10 +127,10 @@ Résoudre une grille de mots cachés à partir d’une photo grâce à un résea
 ### 7.1 Compétences techniques (Hard Skills)
 
 **Langages :**  
-C, Python, C#, Assembleur  
+[C](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html), [Python](https://docs.python.org/), [C#](https://learn.microsoft.com/dotnet/csharp/), [Assembleur](https://fr.wikipedia.org/wiki/Assembleur)  
 
 **Paradigmes :**  
-Génération procédurale, programmation orientée objet  
+[Génération procédurale](https://fr.wikipedia.org/wiki/Programmation_proc%C3%A9durale), [programmation orientée objet](https://fr.wikipedia.org/wiki/Programmation_orient%C3%A9e_objet)  
 
 **Systèmes :**  
 Linux, Windows  
@@ -200,5 +197,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
