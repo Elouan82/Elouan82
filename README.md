@@ -32,7 +32,7 @@ Ce portfolio présente mon parcours académique, mes expériences et les compét
 Il illustre ma progression dans le domaine de l’informatique ainsi que mes aspirations pour la suite de mon parcours.
 
 <p align="center">
-  <img src="images/Header.png" alt="HEADER Logo" width="250">
+  <img src="images/Header.png" alt="HEADER Logo" width="500">
 </p>
 
 ---
