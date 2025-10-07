@@ -7,7 +7,7 @@ Année 2025
 
 ---
 
-##  Sommaire
+## Sommaire
 - [1. Introduction](#1-introduction)
 - [2. Présentation personnelle](#2-présentation-personnelle)
 - [3. Parcours académique](#3-parcours-académique)
@@ -26,66 +26,75 @@ Année 2025
 ---
 
 ## 1. Introduction
+
 Ce portfolio présente mon parcours académique, mes expériences et les compétences que j’ai développées durant ma formation à l’EPITA.  
 Il illustre ma progression dans le domaine de l’informatique ainsi que mes aspirations pour la suite de mon parcours.
+
+![Image d'introduction – univers informatique](https://via.placeholder.com/1000x250?text=Introduction+Portfolio)
 
 ---
 
 ## 2. Présentation personnelle
+
 Je m'appelle **Elouan Hubert**, actuellement étudiant en cycle préparatoire à l’**EPITA**.  
 Passionné par l’informatique, j’aime apprendre, expérimenter et relever des défis techniques.  
 Mon objectif est de développer un large éventail de compétences pour évoluer dans le domaine du développement logiciel.
 
+![Photo ou image de profil](https://via.placeholder.com/200x200?text=Photo+Profil)
+
 ---
 
 ## 3. Parcours académique
+
 **EPITA – École pour l'Informatique et les Techniques Avancées**  
 Cycle préparatoire – formation orientée vers l’informatique et les sciences fondamentales, avec une approche à la fois **théorique et pratique**.
+
+![Image EPITA ou illustration académique](https://via.placeholder.com/800x200?text=EPITA+-+Parcours+Academique)
 
 ---
 
 ## 4. Projets réalisés
 
 ### 4.1 Project Eclipse
-> _Roguelike 2D multijoueur – Unity & C#_
+
+**Type :** Jeu vidéo 2D roguelike multijoueur  
+**Technologies :** Unity, C#, Git  
 
 **Description :**  
-Projet Eclipse est un jeu vidéo 2D de type **roguelike**, réalisé en première année.  
-L’objectif : apprendre le travail en groupe et la conception d’un jeu vidéo multijoueur.
+Projet Eclipse est un jeu vidéo 2D de type roguelike, réalisé en première année.  
+L’objectif était d’apprendre à travailler en groupe et à concevoir un jeu vidéo multijoueur.
 
-**Rôle personnel :**  
+**Rôle personnel :**
 - Génération aléatoire des niveaux  
 - Design 2D et animation  
 - Comportement des ennemis  
 
-**Technos :** Unity, C#, Git  
-
-![Aperçu du projet Eclipse](https://via.placeholder.com/600x300?text=Project+Eclipse)
+![Capture d’écran ou visuel du jeu](https://via.placeholder.com/900x400?text=Project+Eclipse+-+Jeu+2D)
 
 ---
 
 ## 5. Projets en cours
 
 ### 5.1 Project OCR
-> _Projet du troisième semestre – Reconnaissance de lettres et résolution de mots cachés_
+
+**Type :** Projet d’analyse d’image et d’intelligence artificielle  
+**Technologies :** C, SDL, Réseau neuronal  
 
 **Objectif :**  
-Résoudre une grille de mots cachés à partir d’une photo grâce à un **réseau neuronal** et des algorithmes de **reconnaissance de caractères (OCR)**.
+Résoudre une grille de mots cachés à partir d’une photo grâce à un réseau neuronal et un algorithme de reconnaissance de caractères (OCR).
 
-**Rôle personnel :**  
-Développement du **backend**, en particulier :  
-- Algorithme de résolution des grilles  
-- Traitement des fichiers texte  
+**Rôle personnel :**
+- Développement du backend  
+- Algorithme de résolution de grille  
 - Génération des coordonnées des mots trouvés  
 
-**Technos :** C, SDL, réseau neuronal  
-
-![Illustration du projet OCR](https://via.placeholder.com/600x300?text=Project+OCR)
+![Schéma ou illustration OCR](https://via.placeholder.com/900x400?text=Project+OCR+-+Reconnaissance+de+lettres)
 
 ---
 
 ## 6. Expériences professionnelles
-**Employé polyvalent – McDonald’s (CDI)**  
+
+**Poste :** Employé polyvalent – McDonald’s (CDI)  
 
 **Responsabilités :**
 - Gestion des commandes et respect des procédures d’hygiène  
@@ -97,56 +106,80 @@ Développement du **backend**, en particulier :
 - Gestion du temps et priorisation  
 - Rigueur et ponctualité  
 
+![Photo d’équipe ou environnement professionnel](https://via.placeholder.com/900x250?text=Experience+Professionnelle)
+
 ---
 
 ## 7. Compétences et savoir-faire
 
 ### 7.1 Compétences techniques (Hard Skills)
-**Langages :** C, Python, C#, Assembleur  
-**Paradigmes :** procédural, orienté objet  
-**Systèmes :** Linux, gestion de processus et mémoire  
-**Outils :** Git, VSCode, VIM  
+
+**Langages :**  
+C, Python, C#, Assembleur  
+
+**Paradigmes :**  
+Procédural, orienté objet  
+
+**Systèmes :**  
+Linux (gestion de la mémoire, des processus, du multitâche)  
+
+**Outils :**  
+Git, VSCode, VIM  
+
+![Illustration technique ou code](https://via.placeholder.com/800x250?text=Hard+Skills+-+Programmation)
 
 ---
 
 ### 7.2 Compétences méthodologiques
+
 - Gestion de projet en équipe  
-- Planification et suivi d’avancement  
-- Rédaction de documentation technique  
-- Communication et collaboration  
+- Planification et répartition des tâches  
+- Suivi de l’avancement  
+- Rédaction de documentation technique claire et précise  
+- Communication au sein d’un groupe  
+
+![Schéma de gestion de projet](https://via.placeholder.com/800x250?text=Methodologie+-+Gestion+de+Projet)
 
 ---
 
 ### 7.3 Compétences comportementales (Soft Skills)
+
 - Autonomie et sens de l’initiative  
 - Créativité et rigueur  
 - Curiosité intellectuelle  
 - Esprit critique et adaptabilité  
 
+![Image soft skills – collaboration](https://via.placeholder.com/800x250?text=Soft+Skills+-+Travail+d%27Equipe)
+
 ---
 
 ## 8. Ouverture et perspectives
+
 Mon parcours à l’EPITA m’a permis de découvrir de nombreux aspects de l’informatique.  
 Je souhaite approfondir mes connaissances dans :
 - L’automatisation  
 - La cybersécurité  
 - Le développement logiciel à grande échelle  
 
-Objectif à court terme : continuer à apprendre par des projets concrets et des stages.  
-Objectif à long terme : devenir **ingénieur en informatique** dans un environnement stimulant et innovant.
+À court terme, je souhaite continuer à développer mes compétences techniques à travers des projets concrets, des stages et des expériences en entreprise.  
+À long terme, mon objectif est de devenir **ingénieur en informatique**, capable de contribuer à des projets ambitieux et innovants.
+
+![Image futur/prospective – ingénierie](https://via.placeholder.com/1000x300?text=Perspectives+-+Futur+Ingenieur)
 
 ---
 
 ## 9. Conclusion
-Ce portfolio témoigne de mon **parcours**, de mes **réalisations** et de ma **progression** à l’EPITA.  
+
+Ce portfolio témoigne de mon parcours, de mes réalisations et de ma progression à l’EPITA.  
 Il illustre ma passion pour l’informatique et mon engagement à évoluer dans ce domaine.
+
+![Image de fin – réussite ou vision d’avenir](https://via.placeholder.com/1000x250?text=Conclusion+-+Vision+d%27avenir)
 
 ---
 
-**Contactez-moi :**
-- mail: [elouan.hubert@epita.fr](mailto:elouan.hubert@epita.fr)
-- Github:[Mon profil GitHub](https://github.com/Elouan82)
-
+**Contact :**  
+[elouan.hubert@epita.fr](mailto:elouan.hubert@epita.fr)  
+[GitHub – Elouan Hubert](https://github.com/ElouanHubert)
 <!--
 **Elouan82/Elouan82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
