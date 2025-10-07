@@ -59,6 +59,10 @@ Cycle préparatoire — formation orientée vers l’informatique et les science
 ## 4. Projets réalisés
 
 ### 4.1 Project Eclipse
+<p align="center">
+  <img src="images/Eclipse_Title.png" alt="Eclipse Title" width="200"><br>
+</p>
+
 
 **Type :** Jeu vidéo 2D roguelike multijoueur  
 **Technologies :** Unity, C#, Git  
@@ -73,8 +77,7 @@ L’objectif était d’apprendre à travailler en groupe et à concevoir un jeu
 - Comportement des ennemis  
 
 <p align="center">
-  <img src="images/Eclipse_Title.png" alt="Eclipse Title" width="600"><br>
-  <img src="images/Eclipse_Titlescreen.png" alt="Eclipse Titlescreen" width="600">
+  <img src="images/Eclipse_Titlescreen.png" alt="Eclipse Titlescreen" width="400">
 </p>
 
 ---
@@ -92,9 +95,8 @@ Résoudre une grille de mots cachés à partir d’une photo grâce à un résea
 **Rôle personnel :**
 - Développement du backend  
 - Algorithme de résolution de grille  
-- Génération des coordonnées des mots trouvés  
 
-<p align="center">
+<p align="left">
   <img src="images/Ocr_screen.png" alt="OCR Project" width="600">
 </p>
 
@@ -128,17 +130,18 @@ Résoudre une grille de mots cachés à partir d’une photo grâce à un résea
 C, Python, C#, Assembleur  
 
 **Paradigmes :**  
-Procédural, orienté objet  
+Generation Procédural, orienté objet  
 
 **Systèmes :**  
-Linux (gestion de la mémoire, des processus, du multitâche)  
-
-**Outils :**  
-Git, VSCode, VIM  
+Linux, Windose 
 
 <p align="center">
   <img src="images/Linux_logo.png" alt="Linux Logo" width="150">
 </p>
+
+
+**Outils :**  
+Git, VSCode, VIM  
 
 ---
 
