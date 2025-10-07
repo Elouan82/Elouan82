@@ -83,7 +83,7 @@ L’objectif était d’apprendre à travailler en groupe et à concevoir un jeu
 - Comportement des ennemis  
 
 <p align="left">
-  <img src="images/Eclipse_Titlescreen.png" alt="Eclipse Titlescreen" width="400">
+  <img src="images/Eclipse_Titlescreen.png" alt="Eclipse Titlescreen" width="500">
 </p>
 
 ---
@@ -141,11 +141,6 @@ Generation Procédural, orienté objet
 **Systèmes :**  
 Linux, Windose 
 
-<p align="left">
-  <img src="images/Linux_logo.png" alt="Linux Logo" width="100">
-</p>
-
-
 **Outils :**  
 Git, VSCode, VIM  
 
@@ -193,7 +188,7 @@ Il illustre ma passion pour l’informatique et mon engagement à évoluer dans 
 <p align="center">
   <strong>Contact :</strong><br>
   <a href="mailto:elouan.hubert@epita.fr">elouan.hubert@epita.fr</a><br>
-  <a href="https://github.com/ElouanHubert">github.com/ElouanHubert</a>
+  <a href="https://github.com/Elouan82">Elouan82</a>
 </p>
 <!--
 **Elouan82/Elouan82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
