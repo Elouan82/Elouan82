@@ -1,13 +1,13 @@
 # 🌟 Portfolio – Elouan Hubert
 
 **Étudiant en Prépa Informatique à l’EPITA**  
-📧 elouan.hubert@epita.fr  
-👨‍🏫 Encadrant : Mr Kabous  
-📅 Année 2025  
+elouan.hubert@epita.fr  
+Encadrant : Mr Kabous  
+Année 2025  
 
 ---
 
-## 📚 Sommaire
+##  Sommaire
 - [1. Introduction](#1-introduction)
 - [2. Présentation personnelle](#2-présentation-personnelle)
 - [3. Parcours académique](#3-parcours-académique)
@@ -39,7 +39,7 @@ Mon objectif est de développer un large éventail de compétences pour évoluer
 ---
 
 ## 3. Parcours académique
-🎓 **EPITA – École pour l'Informatique et les Techniques Avancées**  
+**EPITA – École pour l'Informatique et les Techniques Avancées**  
 Cycle préparatoire – formation orientée vers l’informatique et les sciences fondamentales, avec une approche à la fois **théorique et pratique**.
 
 ---
@@ -49,16 +49,16 @@ Cycle préparatoire – formation orientée vers l’informatique et les science
 ### 4.1 Project Eclipse
 > _Roguelike 2D multijoueur – Unity & C#_
 
-🧩 **Description :**  
+**Description :**  
 Projet Eclipse est un jeu vidéo 2D de type **roguelike**, réalisé en première année.  
 L’objectif : apprendre le travail en groupe et la conception d’un jeu vidéo multijoueur.
 
-🎮 **Rôle personnel :**  
+**Rôle personnel :**  
 - Génération aléatoire des niveaux  
 - Design 2D et animation  
 - Comportement des ennemis  
 
-🛠️ **Technos :** Unity, C#, Git  
+**Technos :** Unity, C#, Git  
 
 ![Aperçu du projet Eclipse](https://via.placeholder.com/600x300?text=Project+Eclipse)
 
@@ -69,23 +69,23 @@ L’objectif : apprendre le travail en groupe et la conception d’un jeu vidéo
 ### 5.1 Project OCR
 > _Projet du troisième semestre – Reconnaissance de lettres et résolution de mots cachés_
 
-🧠 **Objectif :**  
+**Objectif :**  
 Résoudre une grille de mots cachés à partir d’une photo grâce à un **réseau neuronal** et des algorithmes de **reconnaissance de caractères (OCR)**.
 
-💻 **Rôle personnel :**  
+**Rôle personnel :**  
 Développement du **backend**, en particulier :  
 - Algorithme de résolution des grilles  
 - Traitement des fichiers texte  
 - Génération des coordonnées des mots trouvés  
 
-🛠️ **Technos :** C, SDL, réseau neuronal  
+**Technos :** C, SDL, réseau neuronal  
 
 ![Illustration du projet OCR](https://via.placeholder.com/600x300?text=Project+OCR)
 
 ---
 
 ## 6. Expériences professionnelles
-🍔 **Employé polyvalent – McDonald’s (CDI)**  
+**Employé polyvalent – McDonald’s (CDI)**  
 
 **Responsabilités :**
 - Gestion des commandes et respect des procédures d’hygiène  
@@ -132,8 +132,8 @@ Je souhaite approfondir mes connaissances dans :
 - La cybersécurité  
 - Le développement logiciel à grande échelle  
 
-🎯 Objectif à court terme : continuer à apprendre par des projets concrets et des stages.  
-🚀 Objectif à long terme : devenir **ingénieur en informatique** dans un environnement stimulant et innovant.
+Objectif à court terme : continuer à apprendre par des projets concrets et des stages.  
+Objectif à long terme : devenir **ingénieur en informatique** dans un environnement stimulant et innovant.
 
 ---
 
@@ -143,9 +143,9 @@ Il illustre ma passion pour l’informatique et mon engagement à évoluer dans 
 
 ---
 
-📫 **Contactez-moi :**
-- ✉️ [elouan.hubert@epita.fr](mailto:elouan.hubert@epita.fr)
-- 💻 [Mon profil GitHub](https://github.com/ElouanHubert)
+**Contactez-moi :**
+- mail: [elouan.hubert@epita.fr](mailto:elouan.hubert@epita.fr)
+- Mon profil Github:[Mon profil GitHub](https://github.com/Elouan82)
 
 <!--
 **Elouan82/Elouan82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
