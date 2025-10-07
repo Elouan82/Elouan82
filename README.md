@@ -1,9 +1,10 @@
-# Portfolio – Elouan Hubert
+# Portfo<h1 align="center">Portfolio – Elouan Hubert</h1>
 
-**Étudiant en Prépa Informatique à l’EPITA**  
-elouan.hubert@epita.fr  
-Encadrant : Mr Kabous  
-Année 2025  
+<p align="center">
+  <strong>Étudiant en Prépa Informatique à l’EPITA</strong><br>
+  elouan.hubert@epita.fr<br>
+  Encadrant : Mr Kabous — Année 2025
+</p>
 
 ---
 
@@ -30,7 +31,9 @@ Année 2025
 Ce portfolio présente mon parcours académique, mes expériences et les compétences que j’ai développées durant ma formation à l’EPITA.  
 Il illustre ma progression dans le domaine de l’informatique ainsi que mes aspirations pour la suite de mon parcours.
 
-![Image d'introduction – univers informatique](images/Epita_logo.png)
+<p align="center">
+  <img src="images/Epita_logo.png" alt="EPITA Logo" width="250">
+</p>
 
 ---
 
@@ -45,9 +48,11 @@ Mon objectif est de développer un large éventail de compétences pour évoluer
 ## 3. Parcours académique
 
 **EPITA – École pour l'Informatique et les Techniques Avancées**  
-Cycle préparatoire – formation orientée vers l’informatique et les sciences fondamentales, avec une approche à la fois **théorique et pratique**.
+Cycle préparatoire — formation orientée vers l’informatique et les sciences fondamentales, combinant théorie et pratique.
 
-![EPITA Logo](images/Epita_logo.png)
+<p align="center">
+  <img src="images/Epita_logo.png" alt="EPITA" width="200">
+</p>
 
 ---
 
@@ -67,8 +72,10 @@ L’objectif était d’apprendre à travailler en groupe et à concevoir un jeu
 - Design 2D et animation  
 - Comportement des ennemis  
 
-![Titre du jeu Eclipse](images/Eclipse_Title.png)
-![Écran titre du jeu](images/Eclipse_Titlescreen.png)
+<p align="center">
+  <img src="images/Eclipse_Title.png" alt="Eclipse Title" width="600"><br>
+  <img src="images/Eclipse_Titlescreen.png" alt="Eclipse Titlescreen" width="600">
+</p>
 
 ---
 
@@ -87,7 +94,9 @@ Résoudre une grille de mots cachés à partir d’une photo grâce à un résea
 - Algorithme de résolution de grille  
 - Génération des coordonnées des mots trouvés  
 
-![Capture d’écran OCR](images/Ocr_screen.png)
+<p align="center">
+  <img src="images/Ocr_screen.png" alt="OCR Project" width="600">
+</p>
 
 ---
 
@@ -105,7 +114,9 @@ Résoudre une grille de mots cachés à partir d’une photo grâce à un résea
 - Gestion du temps et priorisation  
 - Rigueur et ponctualité  
 
-![Logo McDonald's](images/Mcdo_logo.png)
+<p align="center">
+  <img src="images/Mcdo_logo.png" alt="McDonald's Logo" width="180">
+</p>
 
 ---
 
@@ -125,7 +136,9 @@ Linux (gestion de la mémoire, des processus, du multitâche)
 **Outils :**  
 Git, VSCode, VIM  
 
-![Logo Linux](images/Linux_logo.png)
+<p align="center">
+  <img src="images/Linux_logo.png" alt="Linux Logo" width="150">
+</p>
 
 ---
 
@@ -168,9 +181,11 @@ Il illustre ma passion pour l’informatique et mon engagement à évoluer dans 
 
 ---
 
-**Contact :**  
-[elouan.hubert@epita.fr](mailto:elouan.hubert@epita.fr)  
-[GitHub – Elouan Hubert](https://github.com/ElouanHubert)
+<p align="center">
+  <strong>Contact :</strong><br>
+  <a href="mailto:elouan.hubert@epita.fr">elouan.hubert@epita.fr</a><br>
+  <a href="https://github.com/ElouanHubert">github.com/ElouanHubert</a>
+</p>
 <!--
 **Elouan82/Elouan82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
