@@ -31,9 +31,15 @@
 Ce portfolio présente mon parcours académique, mes expériences et les compétences que j’ai développées durant ma formation à l’EPITA.  
 Il illustre ma progression dans le domaine de l’informatique ainsi que mes aspirations pour la suite de mon parcours.
 
+
+
+
 <p align="center">
   <img src="images/Header.png" alt="HEADER Logo" width="500">
 </p>
+
+
+
 
 ---
 
@@ -60,7 +66,7 @@ Cycle préparatoire — formation orientée vers l’informatique et les science
 
 ### 4.1 Project Eclipse
 <p align="left">
-  <img src="images/Eclipse_Title.png" alt="Eclipse Title" width="200"><br>
+  <img src="images/Eclipse_Title.png" alt="Eclipse Title" width="350"><br>
 </p>
 
 
