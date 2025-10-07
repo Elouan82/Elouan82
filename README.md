@@ -30,7 +30,7 @@ Année 2025
 Ce portfolio présente mon parcours académique, mes expériences et les compétences que j’ai développées durant ma formation à l’EPITA.  
 Il illustre ma progression dans le domaine de l’informatique ainsi que mes aspirations pour la suite de mon parcours.
 
-![Image d'introduction – univers informatique](https://via.placeholder.com/1000x250?text=Introduction+Portfolio)
+![Image d'introduction – univers informatique](images/Epita_logo.png)
 
 ---
 
@@ -40,8 +40,6 @@ Je m'appelle **Elouan Hubert**, actuellement étudiant en cycle préparatoire à
 Passionné par l’informatique, j’aime apprendre, expérimenter et relever des défis techniques.  
 Mon objectif est de développer un large éventail de compétences pour évoluer dans le domaine du développement logiciel.
 
-![Photo ou image de profil](https://via.placeholder.com/200x200?text=Photo+Profil)
-
 ---
 
 ## 3. Parcours académique
@@ -49,7 +47,7 @@ Mon objectif est de développer un large éventail de compétences pour évoluer
 **EPITA – École pour l'Informatique et les Techniques Avancées**  
 Cycle préparatoire – formation orientée vers l’informatique et les sciences fondamentales, avec une approche à la fois **théorique et pratique**.
 
-![Image EPITA ou illustration académique](https://via.placeholder.com/800x200?text=EPITA+-+Parcours+Academique)
+![EPITA Logo](images/Epita_logo.png)
 
 ---
 
@@ -69,7 +67,8 @@ L’objectif était d’apprendre à travailler en groupe et à concevoir un jeu
 - Design 2D et animation  
 - Comportement des ennemis  
 
-![Capture d’écran ou visuel du jeu](https://via.placeholder.com/900x400?text=Project+Eclipse+-+Jeu+2D)
+![Titre du jeu Eclipse](images/Eclipse_Title.png)
+![Écran titre du jeu](images/Eclipse_Titlescreen.png)
 
 ---
 
@@ -88,7 +87,7 @@ Résoudre une grille de mots cachés à partir d’une photo grâce à un résea
 - Algorithme de résolution de grille  
 - Génération des coordonnées des mots trouvés  
 
-![Schéma ou illustration OCR](https://via.placeholder.com/900x400?text=Project+OCR+-+Reconnaissance+de+lettres)
+![Capture d’écran OCR](images/Ocr_screen.png)
 
 ---
 
@@ -106,7 +105,7 @@ Résoudre une grille de mots cachés à partir d’une photo grâce à un résea
 - Gestion du temps et priorisation  
 - Rigueur et ponctualité  
 
-![Photo d’équipe ou environnement professionnel](https://via.placeholder.com/900x250?text=Experience+Professionnelle)
+![Logo McDonald's](images/Mcdo_logo.png)
 
 ---
 
@@ -126,7 +125,7 @@ Linux (gestion de la mémoire, des processus, du multitâche)
 **Outils :**  
 Git, VSCode, VIM  
 
-![Illustration technique ou code](https://via.placeholder.com/800x250?text=Hard+Skills+-+Programmation)
+![Logo Linux](images/Linux_logo.png)
 
 ---
 
@@ -138,8 +137,6 @@ Git, VSCode, VIM
 - Rédaction de documentation technique claire et précise  
 - Communication au sein d’un groupe  
 
-![Schéma de gestion de projet](https://via.placeholder.com/800x250?text=Methodologie+-+Gestion+de+Projet)
-
 ---
 
 ### 7.3 Compétences comportementales (Soft Skills)
@@ -148,8 +145,6 @@ Git, VSCode, VIM
 - Créativité et rigueur  
 - Curiosité intellectuelle  
 - Esprit critique et adaptabilité  
-
-![Image soft skills – collaboration](https://via.placeholder.com/800x250?text=Soft+Skills+-+Travail+d%27Equipe)
 
 ---
 
@@ -164,16 +159,12 @@ Je souhaite approfondir mes connaissances dans :
 À court terme, je souhaite continuer à développer mes compétences techniques à travers des projets concrets, des stages et des expériences en entreprise.  
 À long terme, mon objectif est de devenir **ingénieur en informatique**, capable de contribuer à des projets ambitieux et innovants.
 
-![Image futur/prospective – ingénierie](https://via.placeholder.com/1000x300?text=Perspectives+-+Futur+Ingenieur)
-
 ---
 
 ## 9. Conclusion
 
 Ce portfolio témoigne de mon parcours, de mes réalisations et de ma progression à l’EPITA.  
 Il illustre ma passion pour l’informatique et mon engagement à évoluer dans ce domaine.
-
-![Image de fin – réussite ou vision d’avenir](https://via.placeholder.com/1000x250?text=Conclusion+-+Vision+d%27avenir)
 
 ---
 
