@@ -1,4 +1,4 @@
-# Portfo<h1 align="center">Portfolio – Elouan Hubert</h1>
+# <h1 align="center">Portfolio – Elouan Hubert</h1>
 
 <p align="center">
   <strong>Étudiant en Prépa Informatique à l’EPITA</strong><br>
@@ -31,15 +31,9 @@
 Ce portfolio présente mon parcours académique, mes expériences et les compétences que j’ai développées durant ma formation à l’EPITA.  
 Il illustre ma progression dans le domaine de l’informatique ainsi que mes aspirations pour la suite de mon parcours.
 
-
-
-
 <p align="center">
   <img src="images/Header.png" alt="HEADER Logo" width="350">
 </p>
-
-
-
 
 ---
 
@@ -65,10 +59,10 @@ Cycle préparatoire — formation orientée vers l’informatique et les science
 ## 4. Projets réalisés
 
 ### 4.1 Project Eclipse
+
 <p align="left">
   <img src="images/Eclipse_Title.png" alt="Eclipse Title" width="350"><br>
 </p>
-
 
 **Type :** Jeu vidéo 2D roguelike multijoueur  
 **Technologies :** Unity, C#, Git  
@@ -136,10 +130,10 @@ Résoudre une grille de mots cachés à partir d’une photo grâce à un résea
 C, Python, C#, Assembleur  
 
 **Paradigmes :**  
-Generation Procédural, orienté objet  
+Génération procédurale, programmation orientée objet  
 
 **Systèmes :**  
-Linux, Windose 
+Linux, Windows  
 
 **Outils :**  
 Git, VSCode, VIM  
@@ -190,6 +184,7 @@ Il illustre ma passion pour l’informatique et mon engagement à évoluer dans 
   <a href="mailto:elouan.hubert@epita.fr">elouan.hubert@epita.fr</a><br>
   <a href="https://github.com/Elouan82">Elouan82</a>
 </p>
+
 <!--
 **Elouan82/Elouan82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
