@@ -1,9 +1,9 @@
-# <h1 align="center">Portfolio – Elouan Hubert</h1>
+# <h1 align="center">Elouan Hubert</h1>
 
 <p align="center">
   <strong>Étudiant en Prépa Informatique à l’EPITA</strong><br>
   elouan.hubert@epita.fr<br>
-  Encadrant : Mr Kabous — Année 2025
+  — Année 2025
 </p>
 
 ---
