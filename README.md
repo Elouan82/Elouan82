@@ -133,10 +133,10 @@ Résoudre une grille de mots cachés à partir d’une photo grâce à un résea
 [Génération procédurale](https://fr.wikipedia.org/wiki/Programmation_proc%C3%A9durale), [programmation orientée objet](https://fr.wikipedia.org/wiki/Programmation_orient%C3%A9e_objet)  
 
 **Systèmes :**  
-Linux, Windows  
+[Linux (documentation officielle du noyau)](https://docs.kernel.org/) , [Windows](https://learn.microsoft.com/windows/)  
 
 **Outils :**  
-Git, VSCode, VIM  
+[Git](https://git-scm.com/doc), [Visual Studio Code](https://code.visualstudio.com/docs), [Vim](https://www.vim.org/docs.php)  
 
 ---
 
@@ -197,4 +197,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 -->
