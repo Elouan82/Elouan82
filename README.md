@@ -31,10 +31,6 @@
 Ce portfolio présente mon parcours académique, mes expériences et les compétences que j’ai développées durant ma formation à l’EPITA.  
 Il illustre ma progression dans le domaine de l’informatique ainsi que mes aspirations pour la suite de mon parcours.
 
-<p align="center">
-  <img src="images/Header.png" alt="HEADER Logo" width="350">
-</p>
-
 ---
 
 ## 2. Présentation personnelle
@@ -42,6 +38,13 @@ Il illustre ma progression dans le domaine de l’informatique ainsi que mes asp
 Je m'appelle **Elouan Hubert**, actuellement étudiant en cycle préparatoire à l’**EPITA**.  
 Passionné par l’informatique, j’aime apprendre, expérimenter et relever des défis techniques.  
 Mon objectif est de développer un large éventail de compétences pour évoluer dans le domaine du développement logiciel.
+
+
+<p align="center">
+  <img src="images/Header.png" alt="HEADER Logo" width="350">
+</p>
+
+
 
 ---
 
