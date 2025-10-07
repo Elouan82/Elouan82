@@ -59,7 +59,7 @@ Cycle préparatoire — formation orientée vers l’informatique et les science
 ## 4. Projets réalisés
 
 ### 4.1 Project Eclipse
-<p align="center">
+<p align="left">
   <img src="images/Eclipse_Title.png" alt="Eclipse Title" width="200"><br>
 </p>
 
@@ -76,7 +76,7 @@ L’objectif était d’apprendre à travailler en groupe et à concevoir un jeu
 - Design 2D et animation  
 - Comportement des ennemis  
 
-<p align="center">
+<p align="left">
   <img src="images/Eclipse_Titlescreen.png" alt="Eclipse Titlescreen" width="400">
 </p>
 
@@ -135,8 +135,8 @@ Generation Procédural, orienté objet
 **Systèmes :**  
 Linux, Windose 
 
-<p align="center">
-  <img src="images/Linux_logo.png" alt="Linux Logo" width="150">
+<p align="left">
+  <img src="images/Linux_logo.png" alt="Linux Logo" width="100">
 </p>
 
 
