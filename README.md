@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Étudiant en Prépa Informatique à l’EPITA</strong><br>
   elouan.hubert@epita.fr<br>
-  — Année 2025
+  Année 2025
 </p>
 
 ---
