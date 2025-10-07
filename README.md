@@ -35,7 +35,7 @@ Il illustre ma progression dans le domaine de l’informatique ainsi que mes asp
 
 
 <p align="center">
-  <img src="images/Header.png" alt="HEADER Logo" width="500">
+  <img src="images/Header.png" alt="HEADER Logo" width="350">
 </p>
 
 
