@@ -35,7 +35,7 @@ Il illustre ma progression dans le domaine de l’informatique ainsi que mes asp
 
 ## 2. Présentation personnelle
 
-Je m'appelle **Elouan Hubert**, actuellement étudiant en cycle préparatoire à l’**EPITA**.  
+Je m'appelle **Elouan Hubert**, 
 Passionné par l’informatique, j’aime apprendre, expérimenter et relever des défis techniques.  
 Mon objectif est de développer un large éventail de compétences pour évoluer dans le domaine du développement logiciel.
 
